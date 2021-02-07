@@ -14,6 +14,6 @@ The criteria these changes must abibe by are as follows
   <li>WHEN I view the heading attributes</li>
   <li>THEN they fall in sequential order</li>
   <li>WHEN I view the title element</li>
-  <li>HEN I find a concise, descriptive title</li>
+  <li>THEN I find a concise, descriptive title</li>
 
 The codebase has been altered and notated to reflect proper accessibility standards.
