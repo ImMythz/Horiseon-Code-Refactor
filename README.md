@@ -15,5 +15,6 @@ The criteria these changes must abibe by are as follows
   <li>THEN they fall in sequential order</li>
   <li>WHEN I view the title element</li>
   <li>THEN I find a concise, descriptive title</li>
+</ul>
 
 The codebase has been altered and notated to reflect proper accessibility standards.
